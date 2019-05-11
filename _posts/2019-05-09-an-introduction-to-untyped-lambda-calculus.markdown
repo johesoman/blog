@@ -2,7 +2,6 @@
 layout: post
 title:  "An introduction to untyped lambda calculus"
 date:   2019-05-09 09:23:31 +0200
-categories: jekyll update
 ---
 # Introduction
 This post is a short introduction to the untyped lambda calculus. We will not cover anything thoroughly but instead, look briefly at a couple of interesting concepts. My hope is that this quick tour becomes worthwhile and educational, and perhaps even inspiring enough to make you want to know more. The lambda calculus is not only a fascinating idea from a theoretical perspective but also a useful thing for any functional programmer to understand.
