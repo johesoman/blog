@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My writings about computer science and programming.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://johesoman.github.io/blog"
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 github_username: johesoman
 linkedin_username: johesoman  
 # Build settings
