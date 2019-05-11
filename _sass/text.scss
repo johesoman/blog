@@ -1,0 +1,12 @@
+
+// @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+
+@font-face {
+  font-family: 'Source Code Pro';
+  src: url('SourceCodePro-Regular.eot?') format('eot'), url('SourceCodePro-Regular.otf.woff') format('woff'), url('SourceCodePro-Regular.ttf') format('truetype');
+}
+
+code, pre {
+    font-family: 'Source Code Pro', monospace;
+}
