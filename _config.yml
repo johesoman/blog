@@ -17,8 +17,8 @@ title: Joel writes
 email: johesoman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My writings about computer science and programming.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://johesoman.github.io/blog"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://johesoman.github.io"
 permalink: /:year/:month/:day/:title/
 github_username: johesoman
 linkedin_username: johesoman  
